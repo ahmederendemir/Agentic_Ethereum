@@ -1,0 +1,48 @@
+[
+  {
+    "id": 14,
+    "addressEmployer": "0x47447fb5f2bb45e2c7a0463313d3e5ea2e75e101",
+    "addressEmployee": "0xa2fe4db02c5907f3e477f7dd5550d8aa4d5081ae",
+    "amountToStake": "0.00001",
+    "employeeDone": false,
+    "employerValidate": false,
+    "disputeRaised": false,
+    "AIcheck": false,
+    "description": "kkkkkkkkkkkk"
+  },
+  {
+    "id": 15,
+    "addressEmployer": "0x47447fb5f2bb45e2c7a0463313d3e5ea2e75e101",
+    "addressEmployee": "0xa2fe4db02c5907f3e477f7dd5550d8aa4d5081ae",
+    "amountToStake": "0.00001",
+    "employeeDone": false,
+    "employerValidate": false,
+    "disputeRaised": false,
+    "AIcheck": false,
+    "description": "aödslaömlşdmşsam"
+  },
+  {
+    "jobId": 76,
+    "id": 16,
+    "addressEmployer": "0x47447fb5f2bb45e2c7a0463313d3e5ea2e75e101",
+    "addressEmployee": "0xa2fe4db02c5907f3e477f7dd5550d8aa4d5081ae",
+    "amountToStake": "0.00001",
+    "employeeDone": true,
+    "employerValidate": false,
+    "disputeRaised": false,
+    "AIcheck": false,
+    "description": "asdadadadas"
+  },
+  {
+    "jobId": 77,
+    "id": 17,
+    "addressEmployer": "0x47447fb5f2bb45e2c7a0463313d3e5ea2e75e101",
+    "addressEmployee": "0xa2fe4db02c5907f3e477f7dd5550d8aa4d5081ae",
+    "amountToStake": "0.00001",
+    "employeeDone": true,
+    "employerValidate": false,
+    "disputeRaised": false,
+    "AIcheck": false,
+    "description": "yeaaaaaah"
+  }
+]
